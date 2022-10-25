@@ -1,0 +1,5 @@
+- # Sobre mim
+- :+1: Meu email de contato é maria.juliamena.rodrigues@escola.pr.gov.br
+- 👋 Oi,meu nome é @alunamariajulia
+- 👀 Eu estou interessada a aprender novas linguagens.
+- 🌱 eu estou aprendendo a progamar recentemente linguagens JavaScript e Scrath
